@@ -88,6 +88,7 @@ export default defineConfig((/* ctx */) => {
       plugins: ['LocalStorage']
     },
 
+  
     // animations: 'all', // --- includes all animations
     // https://v2.quasar.dev/options/animations
     animations: [],
@@ -203,4 +204,5 @@ export default defineConfig((/* ctx */) => {
       extraScripts: []
     }
   }
+  
 })
